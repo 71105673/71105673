@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+About Me ✨
+기간	활동/경력	주요 업무
+2025.03. 25 ~ 2025.10 .28	AI 시스템반도체 설계 (2기)/ 서울기술교육센터
+2019.03 ~ 2025.02	인하대학교 정보통신공학과 졸업
 <!--
 **71105673/71105673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
