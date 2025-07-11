@@ -1,5 +1,8 @@
 # Hello 👋
 
+## 🔧 기술 스택
+- Languages: Python, C, C++, Verilog
+- Tools: Visual Studio, VS Code, Cadence, Vivado, Synopsys Custom Compiler
 ## About Me ✨
 
 | 기간                     | 활동/경력                          | 주요 업무                         |
