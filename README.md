@@ -15,12 +15,14 @@
 | **Tools**     | Visual Studio, VS Code, Cadence-Virtuoso, Vivado, Vitis, Synopsys VCS & Verdi, Synopsys Custom Compiler, STM32CubeIDE, OrCAD |
 
 
-## Experience & Projects
-- ■ (Systemverilog) Radix-2² DIF, CBFP 활용 512-Point FFT RTL 설계 및 합성
-- ■ (Systemverilog) RISC-V RV32I 기반 32-bit Multi-Cycle CPU 설계 (Basys3) 
-- ■ (Systemverilog) AMBA APB·AXI4-Lite Protocol 및 Peripheral 설계, UVM 기반 동작 검증 (Basys3)
-- ■ (Systemverilog) VGA 영상처리를 활용한 실시간 PK(Penalty Kick) 게임 (Basys3)
-- ■ (Verilog) UART 통신 SR-04, DHT-11 및 Multi-function Watch 통합 제어 설계 (Basys3)
-- ■ (C) “루팡: 경찰과 도둑” 게임 프로젝트 (ARM Cortex-M3 STM32)
-- ■ (Virtuoso) Wallace Tree 기반 16X16 unsigned Multiplier Full-Custom Design
-- ■ (Virtuoso, Python) 근사 가산기를 활용한 저전력 디지털 신호 처리
+## Experience & Projects 🚀
+| 분야               | 프로젝트 / 경험                                                                 |
+|------------------|--------------------------------------------------------------------------------|
+| **SystemVerilog** | Radix-2² DIF, CBFP 활용 512-Point FFT RTL 설계 및 합성 |
+|                  | RISC-V RV32I 기반 32-bit Multi-Cycle CPU 설계 (Basys3) |
+|                  | AMBA APB·AXI4-Lite Protocol 및 Peripheral 설계, UVM 기반 동작 검증 (Basys3) |
+|                  | VGA 영상처리를 활용한 실시간 PK(Penalty Kick) 게임 (Basys3) |
+| **Verilog**       | UART 통신 SR-04, DHT-11 및 Multi-function Watch 통합 제어 설계 (Basys3) |
+| **C (STM32)**     | “루팡: 경찰과 도둑” 게임 프로젝트 (ARM Cortex-M3 STM32) |
+| **Virtuoso**      | Wallace Tree 기반 16X16 unsigned Multiplier Full-Custom Design |
+| **Virtuoso, Python** | 근사 가산기를 활용한 저전력 디지털 신호 처리 |
