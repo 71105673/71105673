@@ -42,8 +42,8 @@
 
 | Category     | Details                                                   |
 |--------------|-----------------------------------------------------------|
-| **Languages** | Python, C, C++, Verilog, SystemVerilog, MATLAB, |
-| **Tools**     | Visual Studio, VS Code, Cadence-Virtuoso, Vivado, Vitis, Synopsys VCS & Verdi, Synopsys Custom Compiler, STM32CubeIDE, OrCAD |
+| **Languages** | Python, C, C++, Verilog, SystemVerilog |
+| **Tools**     | Visual Studio, VS Code, Cadence-Virtuoso, Vivado, Vitis, Synopsys VCS & Verdi, Synopsys Custom Compiler, STM32CubeIDE, OrCAD, MATLAB|
 
 
 ## Projects 🚀
