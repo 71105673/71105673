@@ -63,7 +63,7 @@
 | 프로젝트 (Project) | 설명 (Description) | 수행기관 (Organization) | 링크 (Links) |
 |:---|:---|:---|:---|
 | **RISC-V AMBA APB** <br> 📅(25.08.26 ~ 25.08.29) | 설명 | 대한상공회의소 | [RISC-V](https://github.com/71105673/RISC-V) |
-|**AIX4_Lite Protocol <br> 📅(25.09.04 ~ 25.09.05)| 설명 | 대한상공회의소 | [RISC-V](https://github.com/71105673/RISC-V) |
+|**AIX4_Lite Protocol** <br> 📅(25.09.04 ~ 25.09.05)| 설명 | 대한상공회의소 | [RISC-V](https://github.com/71105673/RISC-V) |
 | **CPU Design** <br> 📅(25.08.14 ~ 25.08.29) | - RISC-V 명령어 세트 아키텍처를 기반으로 구현한 32비트 **(Single, Multi)-Cycle** CPU 설계<br> - CPU의 핵심 구성 요소인 **DataPath**와 **ControlUnit**을 System Verilog를 사용하여 설계<br> - Vivado EDA tool 및 Synopsys VCS & Verdi를 활용하여 RTL 코드를 합성 후 시뮬레이션을 통해 **모든 명령어 타입 검증**.<br> - C언어 코드를 머신코드로 변환하여 실행함으로써, 소프트웨어와 하드웨어 간의 동작방식을 이해 | 대한상공회의소 | [RISC-V](https://github.com/71105673/RISC-V) |
 | **DSP FFT Design** <br> 📅(25.08.14 ~ 25.08.29) | - **MATLAB**을 활용해 **Radix-2 FFT**의 Butterfly 구조 이해<br> - **Floating-Point**와 **Fixed-Point** 차이 분석.<br> - **BFP**와 **CBFP** 적용 효과를 확인하여 정밀도와 연산 효율 비교.<br> - **소프트웨어 모델링** 기반 **하드웨어 모듈** 설계.<br> - Synopsys EDA Tool을 이용해 RTL 및 Gate Level **합성 결과**를 바탕으로 면적과 타이밍 특성을 분석<br> - Vivado를 활용해 FPGA 검증과 Bitstream생성.<br> - 알고리즘부터 **RTL 설계**, **NetList**생성, **FPGA Bitstream**생성까지 전반적인 **Front-End** 과정 학습.<br> | 대한상공회의소 | [FFT_Project](https://github.com/71105673/FFT_Project) |
 | **AI Skin Doctor** <br> 📅(25.07.01 ~ 25.07.10) | - **Ai Skin Doctor**는 딥러닝과 LLM을 활용해 웹캠으로 사용자의 피부 병변을 분석 후 Ollama를 이용해 간결하고 실용적인 정보를 제공하는 스킨케어 시스템.<br> - **H5 모델을 ONNX, TFLite 모델을 사용해 더 빠르고 효율적으로 동작할 수 잇게 변환한 피부 질환 진단 시스템**. <br> - **범용성**을 고려하여 LLM 기반 **AI 가이드** 가능성을 검증. | 대한상공회의소 | [AI Skin Doctor](https://github.com/EunSeongL/AI_Age_Body_TEAM4) |
