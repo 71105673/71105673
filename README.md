@@ -116,7 +116,8 @@
   <tr>
     <td align="center"><strong>EDA Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Vivado-00A652?style=for-the-badge&logo=xilinx&logoColor=white"/>  
+      <img src="https://img.shields.io/badge/Vivado-00A652?style=for-the-badge&logo=xilinx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vitis-FA2E2E?style=for-the-badge&logo=xilinx&logoColor=white"/>
       <img src="https://img.shields.io/badge/VCS-8E2285?style=for-the-badge&logo=synopsys&logoColor=white"/>
       <img src="https://img.shields.io/badge/Verdi-22225B?style=for-the-badge&logo=synopsys&logoColor=white"/>
       <img src="https://img.shields.io/badge/Cadence%20Virtuoso-CC0000?style=for-the-badge&logo=cadence&logoColor=white"/>
