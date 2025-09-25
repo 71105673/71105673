@@ -113,6 +113,9 @@
       <img src="https://img.shields.io/badge/Vivado-00A652?style=for-the-badge&logo=xilinx&logoColor=white"/>  
       <img src="https://img.shields.io/badge/VCS-8E2285?style=for-the-badge&logo=synopsys&logoColor=white"/>
       <img src="https://img.shields.io/badge/Verdi-22225B?style=for-the-badge&logo=synopsys&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cadence%20Virtuoso-CC0000?style=for-the-badge&logo=cadence&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Synopsys%20Custom%20Compiler-4B0082?style=for-the-badge&logo=synopsys&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OrCAD-FF0000?style=for-the-badge&logo=cadence&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -127,7 +130,6 @@
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CentOS-22225B?style=for-the-badge&logo=centos&logoColor=white"/>
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     </td>
   </tr>
