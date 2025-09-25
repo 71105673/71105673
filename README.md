@@ -91,7 +91,7 @@
   <tr>
     <td align="center"><strong>MCU</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/ATmega128-E34F26?style=for-the-badge&logo=microchip-technology&logoColor=white"/>
+      <img src="https://img.shields.io/badge/STM32%20(Cortex--M3)-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -116,6 +116,7 @@
       <img src="https://img.shields.io/badge/Cadence%20Virtuoso-CC0000?style=for-the-badge&logo=cadence&logoColor=white"/>
       <img src="https://img.shields.io/badge/Synopsys%20Custom%20Compiler-4B0082?style=for-the-badge&logo=synopsys&logoColor=white"/>
       <img src="https://img.shields.io/badge/OrCAD-FF0000?style=for-the-badge&logo=cadence&logoColor=white"/>
+      <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
     </td>
   </tr>
   <tr>
