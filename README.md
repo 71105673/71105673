@@ -43,13 +43,6 @@
 |--------|-----------|--------|
 | OPIc (영어) | IM2 | 2024.11.18 |
 
-## Skills 🛠️
-
-| Category     | Details                                                   |
-|--------------|-----------------------------------------------------------|
-| **Languages** | Python, C, C++, Verilog, SystemVerilog |
-| **Tools**     | Visual Studio, VS Code, Cadence-Virtuoso, Vivado, Vitis, Synopsys VCS & Verdi, Synopsys Custom Compiler, STM32CubeIDE, OrCAD, MATLAB|
-
 
 ## Projects 🚀
 | 분야               | 프로젝트 / 경험                                                                 |
@@ -155,6 +148,9 @@
     <td>
       <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
     </td>
   </tr>
 </table>
