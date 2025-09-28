@@ -67,7 +67,7 @@
 | **AI Skin Doctor** <br> 📅(25.07.01 ~ 25.07.10) | - **Ai Skin Doctor**는 딥러닝과 LLM을 활용해 웹캠으로 사용자의 피부 병변을 분석 후 Ollama를 이용해 간결하고 실용적인 정보를 제공하는 스킨케어 시스템.<br> - **H5 모델을 ONNX, TFLite 모델을 사용해 더 빠르고 효율적으로 동작할 수 잇게 변환한 피부 질환 진단 시스템**. <br> - **범용성**을 고려하여 LLM 기반 **AI 가이드** 가능성을 검증. | 대한상공회의소 | [AI Skin Doctor](https://github.com/EunSeongL/AI_Age_Body_TEAM4) |
 | **Multi Sensor Project** <br> 📅(25.05.20 ~ 25.06.02) | - **Basys3 FPGA 보드**를 이용해 **디지털 시계(WATCH & STOPWATCH)**, **UART 통신**, **초음파 센서(HC-SR04)**, **온습도 센서(DHT11)** 를 통합.<br> - **각 모듈을 블록화**하여 Top Module에서 통합 동작하도록 설계·검증 | 대한상공회의소 | [Multi Sensor Project](https://github.com/71105673/Basys3-multi-Project) |
 | **루팡:경찰과 도둑** <br> 📅(25.04.25 ~ 25.05.02) | - **ARM Cortex-M3** 기반의 마이크로컨트롤러에서 게임 로직 구현 및 하드웨어 데이터시트 기반 레지스터 직접 제어 <br> - 타이머, GPIO, PWM, 인터럽트 등 데이터시트를 참고하여 필요한 레지스터 비트를 직접 활성화하고 활용 <br> - 임베디드 환경에서 레지스터 제어와 인터럽트 기반 프로그래밍 이해 | 대한상공회의소 | [ARM_Cortex-M3](https://github.com/71105673/ARM_Cortex-M3) |
-| **2Stage 16bit MultiPlier** <br> 📅(24.05.30 ~ 25.06.20)  | 
+| **2Stage 16bit MultiPlier** <br> 📅(24.05.30 ~ 25.06.20)  | - Cadence Virtuoso를 활용해 **Schematic → Layout** 전 과정을 수행 <br> - **Wallace Tree 구조** 기반으로 Multiplier 설계 및 검증  - 2.2GHz 동작속도를 달성 | 인하대학교(정보통신공학과) | 링크|
 
 
 
